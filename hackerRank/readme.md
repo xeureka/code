@@ -1,1 +1,1 @@
-This is my solutions for hacker rank problems
+Random solutions for random problems
